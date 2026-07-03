@@ -2,7 +2,7 @@ def calculate_stress(study_hours, sleep_hours, assignments_per_week, exam_days_l
     """
     Calculates student stress level based on academic and lifestyle factors
     """
-
+    
     stress_score = 0
 
     # Study hours impact
