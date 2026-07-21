@@ -5,7 +5,7 @@ def calculate_stress(study_hours, sleep_hours, assignments_per_week, exam_days_l
     
     
     stress_score = 0
-
+    
     # Study hours impact
     if study_hours > 8:
         stress_score += 30
